@@ -1,0 +1,14 @@
+{
+"name": "AsianPaints",
+"dataColors": ["#1F4FD8", "#F57C1F", "#6B3FC0", "#0E7C86", "#E0408F",
+"#F5B400", "#9AA0A6", "#2E9E3B"],
+"background": "#FFFFFF",
+"foreground": "#1F2937",
+"tableAccent": "#1F4FD8",
+"good": "#2E9E3B",
+"neutral": "#F5B400",
+"bad": "#D93025",
+"maximum": "#2E9E3B",
+"center": "#F5E26B",
+"minimum": "#E0463B"
+}
