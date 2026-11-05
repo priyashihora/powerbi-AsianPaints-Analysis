@@ -254,7 +254,7 @@ The **Executive Overview** page summarizes overall revenue, profit, margin, orde
 
 ### 📸 Dashboard Screenshot
 
-<img src="Asset/Images/Page-1.png" alt="Asian Paints Executive Overview Dashboard">
+<img src="assets/Images/Page-1.png" alt="Asian Paints Executive Overview Dashboard">
 
 ---
 
@@ -319,7 +319,7 @@ The **Regional Performance** page analyzes performance across **Region > Zone > 
 
 ### 📸 Dashboard Screenshot
 
-<img src="Asset/Images/Page-2.png" alt="Asian Paints Regional Performance Dashboard">
+<img src="assets/Images/Page-2.png" alt="Asian Paints Regional Performance Dashboard">
 
 ---
 
@@ -385,7 +385,7 @@ The **Product Analytics** page offers insights across **Product > Sub Category**
 
 ### 📸 Dashboard Screenshot
 
-<img src="Asset/Images/Page-3.png" alt="Asian Paints Product Analytics Dashboard">
+<img src="assets/Images/Page-3.png" alt="Asian Paints Product Analytics Dashboard">
 
 ---
 
@@ -459,7 +459,7 @@ The **Dealer Performance** page tracks and analyzes dealer performance across In
 
 ### 📸 Dashboard Screenshot
 
-<img src="Asset/Images/Page-4.png" alt="Asian Paints Dealer Performance Dashboard">
+<img src="assets/Images/Page-4.png" alt="Asian Paints Dealer Performance Dashboard">
 
 ---
 
@@ -512,7 +512,7 @@ The **Trends & Executive Summary** page tracks performance trends, growth and th
 
 ### 📸 Dashboard Screenshot
 
-<img src="Asset/Images/Page-5.png" alt="Asian Paints Trends and Executive Summary Dashboard">
+<img src="assets/Images/Page-5.png" alt="Asian Paints Trends and Executive Summary Dashboard">
 
 ---
 
